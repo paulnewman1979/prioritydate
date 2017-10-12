@@ -8,7 +8,7 @@ use LWP::UserAgent;
 my $year;
 my $month;
 my $fiscal_year;
-my $curDate = 201710;
+my $curDate = 201711;
 my $url;
 my $monthStr;
 

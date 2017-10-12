@@ -32,3 +32,4 @@ curl https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2017/visa
 curl https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2017/visa-bulletin-for-august-2017.html > tmp/201708
 curl https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2017/visa-bulletin-for-september-2017.html > tmp/201709
 curl https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2018/visa-bulletin-for-october-2017.html > tmp/201710
+curl https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2018/visa-bulletin-for-november-2017.html > tmp/201711
